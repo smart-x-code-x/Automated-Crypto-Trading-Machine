@@ -1,0 +1,8 @@
+# SoDEX Trading Bot
+.env
+__pycache__/
+*.pyc
+trades.log
+bot_errors.log
+venv/
+.venv/

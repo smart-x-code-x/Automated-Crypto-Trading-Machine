@@ -1,0 +1,10 @@
+requests
+web3
+eth-account
+eth-abi
+python-dotenv
+rich
+streamlit
+pandas
+plotly
+websocket-client
